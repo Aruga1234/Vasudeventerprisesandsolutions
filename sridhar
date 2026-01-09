@@ -1,0 +1,226 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Vasudev Enterprises and Solution</title>
+    <link rel="stylesheet" href="./css/styles.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+
+<body>
+
+    <!-- NAVBAR -->
+    <nav class="navbar">
+        <div class="logo">
+            <img src="https://raw.githubusercontent.com/Mohak-Trivedi/xcruise-assets/refs/heads/master/xCruise-logo.png" alt="xCruise-logo">
+        </div>
+        <div class="menu">
+            <a href="">Home</a>
+            <a href="">Destinations</a>
+            <a href="">Deals</a>
+        </div>
+    </nav>
+
+    <!-- HERO SECTION -->
+    <header class="hero">
+        <div>
+            <h1>DISCOVER THE BEAUTY OF CRUISING WITH US</h1>
+            <button>Book Now</button>
+        </div>
+    </header>
+
+    <main>
+
+        <!-- DISCOVER SECTION -->
+        <section class="discover">
+
+            <div class="heading">
+                <h2>DISCOVER OUR DESTINATIONS</h2>
+                <p>Sail to crystal clear seas, historical sites</p>
+
+                <div class="popular">
+                    <h4>Popular</h4>
+
+                    <div class="pills">
+                        <div class="pill">
+                            <img src="https://raw.githubusercontent.com/Mohak-Trivedi/xcruise-assets/refs/heads/master/weekend-cruises-pill.png" alt="">
+                            <span>Weekend Cruises</span>
+                        </div>
+
+                        <div class="pill">
+                            <img src="https://raw.githubusercontent.com/Mohak-Trivedi/xcruise-assets/refs/heads/master/summer-cruises-pill.png" alt="">
+                            <span>Summer Cruises</span>
+                        </div>
+
+                        <div class="pill">
+                            <img src="https://raw.githubusercontent.com/Mohak-Trivedi/xcruise-assets/refs/heads/master/exotic-cruises-pill.png" alt="">
+                            <span>Exotic Cruises</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- BANNER -->
+            <div class="banner">
+                <img src="https://raw.githubusercontent.com/Mohak-Trivedi/xcruise-assets/refs/heads/master/caribbean-cruise.png" alt="Caribbean Cruise">
+                <div>
+                    <h3>Caribbean & The Bahamas</h3>
+                    <p>Crystal Clear Seas and Amazing Views</p>
+                </div>
+            </div>
+
+            <!-- CARDS -->
+            <div class="cards">
+
+                <div class="card">
+                    <img src="https://raw.githubusercontent.com/Mohak-Trivedi/xcruise-assets/refs/heads/master/mediterranean-cruise.png" alt="">
+                    <div>
+                        <h3>Mediterranean</h3>
+                        <p>Very nice</p>
+                    </div>
+                </div>
+
+                <div class="card">
+                    <img src="https://raw.githubusercontent.com/Mohak-Trivedi/xcruise-assets/refs/heads/master/dubai-cruise.png" alt="">
+                    <div>
+                        <h3>Dubai & Abu Dhabi</h3>
+                        <p>Excellent</p>
+                    </div>
+                </div>
+
+                <div class="card">
+                    <img src="https://raw.githubusercontent.com/Mohak-Trivedi/xcruise-assets/refs/heads/master/northern-europe-cruise.png" alt="">
+                    <div>
+                        <h3>Northern Europe</h3>
+                        <p>Awesome</p>
+                    </div>
+                </div>
+
+                <div class="card">
+                    <img src="https://raw.githubusercontent.com/Mohak-Trivedi/xcruise-assets/refs/heads/master/redsea-cruise.png" alt="">
+                    <div>
+                        <h3>Red Sea</h3>
+                        <p>Good Location</p>
+                    </div>
+                </div>
+
+                <div class="card">
+                    <img src="https://raw.githubusercontent.com/Mohak-Trivedi/xcruise-assets/refs/heads/master/bermuda-beach-cruise.png" alt="">
+                    <div>
+                        <h3>Bermuda</h3>
+                        <p>Amazing Location</p>
+                    </div>
+                </div>
+
+                <div class="card">
+                    <img src="https://raw.githubusercontent.com/Mohak-Trivedi/xcruise-assets/refs/heads/master/south-africa-cruise.png" alt="">
+                    <div>
+                        <h3>South Africa</h3>
+                        <p>Fantastic Location</p>
+                    </div>
+                </div>
+
+                <div class="card">
+                    <img src="https://raw.githubusercontent.com/Mohak-Trivedi/xcruise-assets/refs/heads/master/south-america-cruise.png" alt="">
+                    <div>
+                        <h3>South America</h3>
+                        <p>Amazing Location</p>
+                    </div>
+                </div>
+
+                <div class="card">
+                    <img src="https://raw.githubusercontent.com/Mohak-Trivedi/xcruise-assets/refs/heads/master/asia-cruise.png" alt="">
+                    <div>
+                        <h3>Asia</h3>
+                        <p>Super location</p>
+                    </div>
+                </div>
+
+            </div>
+        </section>
+
+        <!-- CONTACT SECTION -->
+        
+         <section id="contact">
+            <h3>Contact Us</h3>
+
+            <div class="contact_info">
+
+                <div class="contact_details">
+                    <h4>Contact Information</h4>
+                    <p>6750 N. Andrews Avenue Suite 100 Fort Lauderdale, FL 33309</p>
+                    <p>Call Us: +62-813 346 100</p>
+                </div>
+
+                <div class="hours_details">
+                    <h4>Hours of Operation</h4>
+                    <p>Mon-Fri: 8:00 am - 11:00 pm EST</p>
+                    <p>Sat-Sun: 9:00 am - 9:00 pm EST</p>
+                </div>
+
+            </div>
+        </section>
+        
+        <!-- FOOTER -->
+
+        <footer class="footer">
+
+            <div class="footer-container"> 
+
+                <!-- Column 1 -->
+                <div class="footer-column">
+                    <h2 class="footer-heading">XCruise</h2>
+                    <p class="footer-description">
+                        Experience the future of travel with XCruise – seamless, luxurious, and unforgettable journeys across the globe.
+                    </p>
+                </div> 
+
+                <!-- Column 2 -->      
+                    <div class="footer-column">
+                    <h3 class="footer-heading">Quick Links</h3>
+                    <ul class="footer-links">
+                        <li><a href="#">Home</a></li>
+                        <li><a href="#">Discover</a></li>
+                        <li><a href="#">Contact</a></li>
+                    </ul>
+                </div> 
+
+
+                <!-- Column 3 -->
+                <div class="footer-column">
+                    <h3 class="footer-heading">Contact Us</h3>
+                    <p>Email: support@xcruise.com</p>
+                    <p>Phone: +1 234 567 890</p>
+                </div> 
+
+                <!-- Column 4 -->
+                <div class="footer-column">
+                    <h3 class="footer-heading">Follow Us</h3>
+<br>
+                    <div class="social-icons">
+                        <a href="https://www.instagram.com">
+                            <img src="https://raw.githubusercontent.com/Mohak-Trivedi/xcruise-assets/refs/heads/master/instagram-icon.png" alt="Instagram" style="width:100px;height:100px">
+                        </a>
+
+                        <a href="https://www.facebook.com">
+                            <img src="https://raw.githubusercontent.com/Mohak-Trivedi/xcruise-assets/refs/heads/master/facebook-icon.png" alt="Facebook" style="width:100px;height:100px">
+                        </a>
+
+                        <a href="https://www.youtube.com">
+                            <img src="https://raw.githubusercontent.com/Mohak-Trivedi/xcruise-assets/refs/heads/master/youtube-icon.png" alt="YouTube" style="width:100px;height:100px">
+                        </a>
+
+                        <a href="https://www.gmail.com">
+                            <img src="https://raw.githubusercontent.com/Mohak-Trivedi/xcruise-assets/refs/heads/master/gmail-icon.png" alt="Gmail" style="width:100px;height:100px">
+                        </a>
+                    </div>
+                </div>
+
+            </div> 
+
+            <!-- Bottom Bar -->
+            <div class="footer_rights">© 2024 xCruise In. All rights reserved</div>
+
+        </footer>  
+    </main>
+</body>
+</html>
